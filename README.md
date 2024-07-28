@@ -50,7 +50,7 @@ Liver tumor segmentation is a crucial task in medical image analysis, assisting 
 ## Results
 
 Include any visual results, metrics, or example outputs here. For example:
-- Dice coefficient: X.XX
+- loss: 0.0254 - accuracy: 0.9897
 - Example segmentation results:
 
 ![CT-of-the-abdomen-showing-the-segment-3-liver-lesions-at-diagnosis](https://github.com/user-attachments/assets/63afa17f-84d2-48f9-855a-e02a79aa56a5)
